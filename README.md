@@ -1,7 +1,8 @@
+#Architecture
+![](https://github.com/Recard1on/Kafka-Stream-Visualization-Project/blob/main/docker-kafka-localhost-view.png)
+
 ## For Kafka installation, visit the link below
 [kafka-conduktor-docker](https://github.com/conduktor/kafka-stack-docker-compose)
-
-![](https://github.com/Recard1on/Kafka-Stream-Visualization-Project/blob/main/docker-kafka-localhost-view.png)
 
 ![](https://github.com/Recard1on/Kafka-Stream-Visualization-Project/blob/main/EventStreams.jpg)
 
