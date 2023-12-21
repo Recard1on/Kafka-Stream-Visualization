@@ -1,4 +1,4 @@
-#Architecture
+# Architecture
 ![](https://github.com/Recard1on/Kafka-Stream-Visualization-Project/blob/main/docker-kafka-localhost-view.png)
 
 ## For Kafka installation, visit the link below
